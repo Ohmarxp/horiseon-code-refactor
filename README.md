@@ -14,9 +14,8 @@ N/A
 
 To have quick access to information, click any of the following links located on the upper right side of the page: Search Engine Optimization, online Reputation Management, and Social Media Marketing.
 
-    ```md
-    ![alt text](assets/images/horiseon-code-refactor-deployed.png)
-    ```
+    ![Deployed webpage](assets/images/horiseon-code-refactor-deployed.png)
+
 link to deployed application : https://ohmarxp.github.io/horiseon-code-refactor/
 
 ## Credits

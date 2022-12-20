@@ -87,7 +87,7 @@ p {
     margin-left: 20px;
 }
 
-/*Display parametters for main information of the following class attribute groups*/
+/*Display parametters for main information of the following classes.*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing { 
@@ -100,14 +100,14 @@ p {
 }
 
 
-/*Setting the maximun height for the following class attributes groups, images*/
+/*Setting the maximun height for images of the following classes.*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img { 
       max-height: 200px;
 }
 
-/* Adjusts font size and margin-bottom of the following class attribute groups, h2*/
+/* Adjusts font size and margin-bottom of the following classes, h2*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 { 
@@ -116,10 +116,9 @@ p {
 }
 
 
-/*Define parameters for the elements contained within the class attribute "benefits". Displays the content on the right side of the page*/
+ /*Define parameters for the elements contained within the class attribute "benefits". Displays the content on the right side of the page.*/
 .benefits { 
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 20px; 
     padding: 20px;
     clear: both;
     float: right;
@@ -129,7 +128,7 @@ p {
     background-color: #2589bd;
 }
 
-/*Defines color of subtitle, text, and maring bottom of the following class attribute groups.*/
+/*Defines color of subtitle, text, and maring bottom of the following classes.*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost { 
@@ -137,7 +136,7 @@ p {
     color: #ffffff;
 }
 
-/*Adjust text alignment and margin botton of the followin class attribute groups, h3*/
+/*Adjust text alignment and margin botton of the elements contained in the classes, h3.*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 { 
@@ -145,7 +144,7 @@ p {
     text-align: center;
 }
 
-/* Adjust the display of the following class attributes groups, images*/
+/* Adjust the display of the elements contained in the following classes, images.*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img { 
@@ -155,8 +154,7 @@ p {
 }
 
 
-/*Defines parameters of footer content of the class attribute "footer.*/
-/*
+/*Defines parameters of footer content of the class elements "footer.*/
 .footer {
     padding: 30px;
     clear: both;
@@ -164,7 +162,7 @@ p {
     text-align: center;
 }
 
-/*Determines the font-size of text of the class attribute footer.*//*
+/*Determines the font-size of text of the class elments.*/
 .footer h2 {
     font-size: 20px;
 }

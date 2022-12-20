@@ -13,7 +13,7 @@ To have quick access, click any of the links located on the upper right side of 
 
 ## Credits
 
-Link to deployed application : https://ohmarxp.github.io/horiseon-code-refactor/
+Link to deployed application: https://ohmarxp.github.io/horiseon-code-refactor/
 
 Starter code can be found here: https://github.com/coding-boot-camp/urban-octo-telegram
 

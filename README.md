@@ -12,13 +12,12 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To have quick access to information, click any of the following links located on the upper right side of the page: Search Engine Optimization, online Reputation Management, and Social Media Marketing.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/horiseon-code-refactor-deployed.png)
     ```
+link to deployed application : https://ohmarxp.github.io/horiseon-code-refactor/
 
 ## Credits
 

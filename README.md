@@ -3,22 +3,17 @@
 
 ## Description
 
-In this project, a starter html, and CSS code files were provided. 
-Although the starter codes were mostly complet, they required some clean up and additional modification in order for the browser to render the page correctly, and the functionality of the links to work properly.
-
-## Installation
-
-N/A
+This project is the first challenge assignmet for boot camp students.  In this project, a starter html and CSS code files were provided. Although the starter codes were mostly complete, they required some clean up and additional modification in order for the functionality of the links to work properly.
 
 ## Usage
 
-To have quick access to information, click any of the following links located on the upper right side of the page: Search Engine Optimization, online Reputation Management, and Social Media Marketing.
+To have quick access, click any of the links located on the upper right side of the page: Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
-![Deployed webpage](assets/images/horiseon-code-refactor-deployed.png)
-
-link to deployed application : https://ohmarxp.github.io/horiseon-code-refactor/
+![Deployed webpage](assets/images/webpage-deployed.png)
 
 ## Credits
+
+Link to deployed application : https://ohmarxp.github.io/horiseon-code-refactor/
 
 Starter code can be found here: https://github.com/coding-boot-camp/urban-octo-telegram
 
